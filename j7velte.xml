@@ -8,7 +8,7 @@
 
     <!-- Remote -->
     <remote fetch="https://github.com/Exynos7870-Revived-Beta" name="Beta" />
-    <remote name="sideeyecat" fetch="https://github.com" />
+    <remote fetch="https://github.com" name="sideeyecat" />
 
     <!-- Device Tree -->
     <project name="android_device_samsung_j7velte" path="device/samsung/j7velte" remote="sideeyecat" revision="lineage-19.1" />
