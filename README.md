@@ -1,6 +1,6 @@
-# LineageOS 19.1 For Exynos 7870
+# Pixel Experience For j7velte
 
-Official device manifests and common trees for building LineageOS 19.1 (Android 12L) on Samsung Exynos 7870 devices.
+Official device manifests and common trees for building Pixel Experience (Android 12L) on j7velte.
 
 ---
 
